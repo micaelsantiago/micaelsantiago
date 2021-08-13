@@ -1,7 +1,7 @@
 ### Hello world, meu nome é Micael! 👋
 
 
-- 🔭 Estudante em desenvolvimento web
+- 🔭 Estudante Front-end
 
 <div>
   <a href="https://github.com/micaelsantiago">
