@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> &lt;Micael Santiago/&gt;!</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> &lt;Micael Santiago/&gt;</h1>
 
 - Estudante de desenvolvimento web
 - Aprendendo mais a cada dia
