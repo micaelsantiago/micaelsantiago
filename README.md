@@ -2,6 +2,7 @@
 
 - Estudante de desenvolvimento web 💻
 - Apaixonado por tecnologia ❤️
+- Um cara que gosta de café ☕
 
 <br>
 
