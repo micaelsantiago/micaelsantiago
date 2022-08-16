@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    🤓 Minhas tecnologias: <strong>HTML5, CSS3</strong>
+    🤓 Minhas tecnologias: <strong>HTML5, CSS3, JavaScript</strong>
   </p>
 
   <p>
