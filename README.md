@@ -10,18 +10,12 @@
   <p>
     📌 Vitória de Santo Antão, Pernambuco.
   </p>
-
-  <p>
-    🤓 Minhas tecnologias: <strong>HTML5, CSS3, JavaScript</strong>
-  </p>
-
-  <p>
-    🔨 Minhas ferramentas: <strong>Visual Studio Code, Sublime Text, Git e Github</strong>
-  </p>
-
-  <p>
-    📚 Estudando atualmente: <strong>JavaScript</strong>
-  </p>
+  
+  <div align="left">
+    <a href="https://github.com/micaelsantiago">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaelsantiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
 </div>
 
 <div align="left">
@@ -43,8 +37,8 @@
 <div align="left">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
