@@ -32,7 +32,7 @@
 
 #### Frameworks
 <div align="left">
-  <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?logo=tailwindcss&logoColor=blue&style=for-the-badge" alt="">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?logo=tailwindcss&logoColor=blue&style=for-the-badge" alt="">
 </div>
 
 #### Versionamento
