@@ -5,7 +5,7 @@
 
 <div align="left">
   <p>
-    Meu nome é <strong>Micael Santiago</strong> e sou <strong>Desenvolvedor Front-End</strong>, atualmente cursando o ensino médio técnico em <strong>Desenvolvimento de Sistemas</strong>.
+    Meu nome é <strong>Micael Santiago</strong> e sou <strong>Desenvolvedor Front-End</strong> formado em <strong>Desenvolvimento de Sistemas</strong>.
   </p>
 
   <p>
@@ -23,20 +23,11 @@
     </a>
 </div>
 
-#### Front-End
+## My Stack
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="">
-</div>
-
-#### Frameworks
-<div align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?logo=tailwindcss&logoColor=blue&style=for-the-badge" alt="">
-</div>
-
-#### Versionamento
-<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" alt="">
 </div>
