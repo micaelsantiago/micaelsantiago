@@ -21,7 +21,7 @@
 
 <div>
   <a href="https://github.com/micaelsantiago">
-    <img src="https://github-readme-stats.vercel.app/api?username=micaelsantiago&count_private=true&show_icons=true&theme=tokyonight">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=micaelsantiago&count_private=true&show_icons=true&theme=tokyonight">
   </a>
 
   <a href="https://github.com/micaelsantiago">
