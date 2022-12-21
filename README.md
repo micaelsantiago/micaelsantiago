@@ -19,14 +19,14 @@
 
 <br/>
 
-<div>
+<div align="center">
   <a href="https://github.com/micaelsantiago">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=micaelsantiago&count_private=true&show_icons=true&theme=tokyonight">
   </a>
 
-  <a href="https://github.com/micaelsantiago">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsantiago&layout=compact&theme=tokyonight">
-  </a>
+  <!--<a href="https://github.com/micaelsantiago">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsantiago&layout=compact&theme=tokyonight">
+  </a> -->
 </div>
 
 
