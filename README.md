@@ -8,18 +8,6 @@
   <p>
     📌 Vitória de Santo Antão, Pernambuco.
   </p>
-
-  <p>
-    🤓 Minhas tecnologias: <strong>HTML5, CSS3, JavaScript</strong>
-  </p>
-
-  <p>
-    🔨 Minhas ferramentas: <strong>Visual Studio Code, Sublime Text, Git e Github</strong>
-  </p>
-
-  <p>
-    📚 Estudando atualmente: <strong>JavaScript</strong> e <strong>Tailwind CSS</strong>
-  </p>
 </div>
 
 <hr>
