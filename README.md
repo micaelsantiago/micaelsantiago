@@ -1,8 +1,8 @@
-# Hi devs, i'm Micael! 🧑🏻‍💻
+# Hi devs, I'm Micael! 🧑🏻‍💻
 
 <div align="left">
   <p>
-    Meu nome é Micael Santiago e sou <strong>Desenvolvedor Front-End</strong>, com formação em <strong>Desenvolvimento de Sistemas</strong>.
+    My name is Micael Santiago and I'm a <strong>Front-End Developer</strong>, with a degree in <strong>Systems Development</strong>.
   </p>
 
   <p>
@@ -30,27 +30,28 @@
 <hr>
 
 <div align="left">
-  No mundo da tecnologia desde 2021! <br/>
-  Me chamo Micael Santiago e sou desenvolvedor Front-End, formado em Desenvolvimento de Sistemas! Conheci essa área aos 15 anos e desde então venho     aprendendo cada dia mais sobre a Web!
-  Meu primeiro contato com a programação foi no Ensino Médio Técnico onde eu cursei Desenvolvimento de Sistemas e primeira linguagem que tive contato foi a Python! 🐍
+  In the world of technology since 2021! <br/>
+  My name is Micael Santiago and I'm a Front-End Developer, with a degree in Systems Development! I first got into this field when I was 15 years old and have been learning more about the web every day since then!
+  My first contact with programming was in Technical High School where I studied Systems Development and the first language I learned was Python! 🐍
 </div>
 
-<!-- <div align="center">
-  <a href="https://github.com/micaelsantiago">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=micaelsantiago&count_private=true&show_icons=true&theme=tokyonight">
-  </a>
+## Technologies & Tools 🔧
 
-<a href="https://github.com/micaelsantiago">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsantiago&layout=compact&theme=tokyonight">
-  </a> 
-</div> -->
-
-## Minha Stack 🧰
+### Front-end
 <div align="left">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718">
 </div>
+
+### Back-end
+<div align="left">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div>
+
+### Versionamento
+<div align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
