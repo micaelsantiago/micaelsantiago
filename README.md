@@ -35,6 +35,10 @@
   My first contact with programming was in Technical High School where I studied Systems Development and the first language I learned was Python! 🐍
 </div>
 
+<br>
+
+ [![Visualizações de perfil](https://visitcount.itsvg.in/api?id=micaelsantiago&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 ## Technologies & Tools 🔧
 
 ### Front-end
