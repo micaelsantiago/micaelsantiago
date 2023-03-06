@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micael Santiago</h1>
-<h3 align="center">Desenvolver Web Front-End e entusiasta da programação! No mundo da tecnologia desde 2021 sempre buscando aprenderais sobre a programação e web em geral!</h3>
+<h3 align="center">Eu sou desenvolvedor Web Front-End e entusiasta da programação! Estou no mundo da tecnologia desde 2021 e sempre busco aprender mais sobre programação e a web em geral!</h3>
 
 <br>
 
