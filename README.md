@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 Meu último projeto web: **https://micaelsantiago.github.io/projetoPizzaria-B7Web/**
+- 🔭 Meu último projeto web: **https://micaelsantiago.github.io/conversorBinarioDecimal/**
 
 - 🌱 Atualmente estudando: **JavaScript e PHP**
 
