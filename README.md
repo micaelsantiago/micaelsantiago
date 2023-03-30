@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭 Meu último projeto web: **https://micaelsantiago.github.io/conversorBinarioDecimal/**
+- 🔭 Meu último projeto web: **https://micaelsantiago.github.io/FakeBlog/**
 
 - 🌱 Atualmente estudando: **JavaScript e PHP**
 
