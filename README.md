@@ -1,47 +1,24 @@
-<h1 align="center">Hi 👋, I'm Micael Santiago</h1>
-<h3 align="center">Eu sou desenvolvedor Web Front-End e entusiasta da programação! Estou no mundo da tecnologia desde 2021 e sempre busco aprender mais sobre programação e a web em geral!</h3>
+# &lt;Micael Santiago/&gt;
 
-<br>
+Meu nome é Micael Santiago, tenho 18 anos e sou formado em Desenvolvimento de Sistemas com foco em tecnologias web. Comecei a estudar programação em 2021 e desde então venho aprimorando minhas habilidades em HTML, CSS, JavaScript e outras tecnologias relacionadas ao desenvolvimento de aplicações web. Atualmente, estou cursando faculdade de Análise e Desenvolvimento de Sistemas na Multivix, o que tem me permitido aprofundar ainda mais meus conhecimentos em programação e desenvolvimento de software.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micaelsantiago" alt="micaelsantiago" /></a> </p>
+Estou sempre buscando me atualizar e aprender novas tecnologias e conceitos relacionados ao desenvolvimento web, como padrões de projeto, boas práticas e metodologias ágeis. Gostaria de contribuir com meu conhecimento e habilidades para projetos desafiadores e com impacto positivo na sociedade, em áreas como e-commerce, mídias sociais, sistemas web e muito mais.
 
-<br>
+<img src="https://img.shields.io/github/stars/micaelsantiago?label=Stars" alt="stars">
 
-- 🔭 Meu último projeto web: **https://micaelsantiago.github.io/FakeBlog/**
+## &#x1F527; Minha stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 
-- 🌱 Atualmente estudando: **JavaScript e PHP**
-
-- 👨‍💻 Conheça meu portifólio: [https://micaelsantiago.github.io](https://micaelsantiago.github.io)
-
-- 📫 Envie um email: **santiagoo.micael04@gmail.com**
-
-- 📄 Minhas experiências: - Atualmente trabalhando como estagiário na empresa ProTech em Vitória de Sto Antão - PE.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/micaelsantiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micaelsantiago" height="30" width="40" /></a>
-<a href="https://instagram.com/m.santiago._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.santiago._" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718"></span>
-  <span><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></span>
-</div>
-
-<br> <br> <br>
+## &#x1F464; Social
+<a href="https://www.linkedin.com/in/micael-santiago-959830210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/m.santiago._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://dev.to/micaelsantiago" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micaelsantiago&" alt="micaelsantiago" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=micaelsantiago&show_icons=true&locale=" alt="micaelsantiago" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=micaelsantiago&show_icons=true&locale=en&layout=compact" alt="micaelsantiago" />
+  <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
 </div>
