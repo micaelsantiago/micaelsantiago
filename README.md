@@ -4,8 +4,6 @@ Meu nome é Micael Santiago, tenho 18 anos e sou formado em Desenvolvimento de S
 
 Estou sempre buscando me atualizar e aprender novas tecnologias e conceitos relacionados ao desenvolvimento web, como padrões de projeto, boas práticas e metodologias ágeis. Gostaria de contribuir com meu conhecimento e habilidades para projetos desafiadores e com impacto positivo na sociedade, em áreas como e-commerce, mídias sociais, sistemas web e muito mais.
 
-<img src="https://img.shields.io/github/stars/micaelsantiago?label=Stars" alt="stars">
-
 ## &#x1F527; Minha stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
