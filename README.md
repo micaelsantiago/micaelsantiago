@@ -23,3 +23,5 @@ Estou sempre buscando me atualizar e aprender novas tecnologias e conceitos rela
 <div align="center">
   <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
 </div>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64811fae40cee644b28a0bc8?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
