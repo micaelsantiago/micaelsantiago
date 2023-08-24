@@ -1,14 +1,10 @@
 # `console.log('Hello, world!');`
 
-<div id="apresentation">
-    <p id="image-apresentation">
-        <img src="images/octocat-1692831175257.png">
-    </p>
-    <p id="text-apresentation">
-        Com formação técnica em Desenvolvimento de Sistemas e atualmente fazendo curso superior em Análise e Desenvolvimento de Sistemas, estudo programação desde 2021 e comecei a atuar na área há pouco tempo como estagiário em desenvolvimento web. <br>
-        Atuando como programador Web Front-End, sigo me aprofundando no imenso mar da web e me especializando no desenvolvimento Front-End. Bora escrever código?!
-    </p>
-</div>
+|  |  |
+|-------|------------|
+| ![Imagem](images/octocat-1692831175257.png) | Com formação técnica em Desenvolvimento de Sistemas e atualmente fazendo curso superior em Análise e Desenvolvimento de Sistemas, estudo programação desde 2021 e comecei a atuar na área há pouco tempo como estagiário em desenvolvimento web. Atuando como programador Web Front-End, sigo me aprofundando no imenso mar da web e me especializando no desenvolvimento Front-End. Bora escrever código?! |
+
+
 
 ## 👨‍💻 | Soft Skills
 Sou uma pessoa curiosa, então também conheço um pouco de Back-End...
@@ -33,48 +29,11 @@ Sou uma pessoa curiosa, então também conheço um pouco de Back-End...
 
 ## 📊 | Stats
 
-<div id="stats">
+<div id="stats" align="center">
 
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelsantiago&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsantiago&layout=compact&theme=dark)
-
 
 </div>
 
 <p id="hello-world">01001000 01100101 01101100 01101100 01101111 00101100 00100000 01110111 01101111 01110010 01101100 01100100 00100001 </p>
-
-
-<style>
-    #apresentation {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    #apresentation #image-apresentation {
-        width: 40%;
-    }
-
-    #apresentation #image-apresentation img {
-        width: 100%;
-    }
-
-    #hello-world {
-        text-align: center;
-        margin-top: 5rem;
-    }
-
-    #techs {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-top: 10px
-    }
-
-    #stats {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-</style>
