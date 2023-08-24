@@ -1,27 +1,80 @@
-# &lt;Micael Santiago/&gt;
+# `console.log('Hello, world!');`
 
-Meu nome é Micael Santiago, tenho 18 anos e sou formado em Desenvolvimento de Sistemas com foco em tecnologias web. Comecei a estudar programação em 2021 e desde então venho aprimorando minhas habilidades em HTML, CSS, JavaScript e outras tecnologias relacionadas ao desenvolvimento de aplicações web. Atualmente, estou cursando faculdade de Análise e Desenvolvimento de Sistemas na Multivix, o que tem me permitido aprofundar ainda mais meus conhecimentos em programação e desenvolvimento de software.
-
-Estou sempre buscando me atualizar e aprender novas tecnologias e conceitos relacionados ao desenvolvimento web, como padrões de projeto, boas práticas e metodologias ágeis. Gostaria de contribuir com meu conhecimento e habilidades para projetos desafiadores e com impacto positivo na sociedade, em áreas como e-commerce, mídias sociais, sistemas web e muito mais.
-
-## &#x1F527; Minha stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
-![React JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&color=38B2AC)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-
-## &#x1F464; Social
-<a href="https://www.linkedin.com/in/micael-santiago-959830210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/m.santiago._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://dev.to/micaelsantiago" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
-<div align="center">
-  <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
+<div id="apresentation">
+    <p id="image-apresentation">
+        <img src="images/octocat-1692831175257.png">
+    </p>
+    <p id="text-apresentation">
+        Com formação técnica em Desenvolvimento de Sistemas e atualmente fazendo curso superior em Análise e Desenvolvimento de Sistemas, estudo programação desde 2021 e comecei a atuar na área há pouco tempo como estagiário em desenvolvimento web. <br>
+        Atuando como programador Web Front-End, sigo me aprofundando no imenso mar da web e me especializando no desenvolvimento Front-End. Bora escrever código?!
+    </p>
 </div>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64811fae40cee644b28a0bc8?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
+## 👨‍💻 | Soft Skills
+Sou uma pessoa curiosa, então também conheço um pouco de Back-End...
+
+<div id="techs">
+
+![HTML5](https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Boostrap-white?logo=bootstrap&logoColor=7952B3&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&logoColor=06B6D4&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=flat-square)
+![JQuery](https://img.shields.io/badge/-JQuery-white?logo=jquery&logoColor=0769AD&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-white?logo=vue.js&logoColor=4FC08D&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-white?logo=php&logoColor=777BB4&style=flat-square)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-white?logo=codeigniter&logoColor=EF4223&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=4479A1&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=flat-square)
+![Github](https://img.shields.io/badge/-Github-white?logo=github&logoColor=181717&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-white?logo=vercel&logoColor=000000&style=flat-square)
+
+</div>
+
+## 📊 | Stats
+
+<div id="stats">
+
+![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelsantiago&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsantiago&layout=compact&theme=dark)
+
+
+</div>
+
+<p id="hello-world">01001000 01100101 01101100 01101100 01101111 00101100 00100000 01110111 01101111 01110010 01101100 01100100 00100001 </p>
+
+
+<style>
+    #apresentation {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #apresentation #image-apresentation {
+        width: 40%;
+    }
+
+    #apresentation #image-apresentation img {
+        width: 100%;
+    }
+
+    #hello-world {
+        text-align: center;
+        margin-top: 5rem;
+    }
+
+    #techs {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px
+    }
+
+    #stats {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+</style>
