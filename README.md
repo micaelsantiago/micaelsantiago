@@ -3,7 +3,7 @@
 ## Welcome to my repository! :)
 
 <div>
-<p>VueJS | TypeScript | JavaScript | PHP | MySQL | HTML | CSS | Bootstrap | Tailwind CSS</p>
+<p>Java | Spring Boot | PHP | MySQL</p>
 
 - 💼 Intern at @ANS Sistemas
 - 👨🏽‍💻 Systems development technician
