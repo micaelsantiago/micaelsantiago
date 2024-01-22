@@ -3,8 +3,8 @@
 ## Welcome to my repository! :)
 
 <div>
-- 💼 Intern at @ANS Sistemas
-- 👨🏽‍💻 Systems development technician
+- 💼 Intern at @ANS Sistemas <br>
+- 👨🏽‍💻 Systems development technician <br>
 - 🎓 Systems analysis and development student
 </div>
 
