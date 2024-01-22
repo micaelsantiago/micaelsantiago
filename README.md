@@ -3,8 +3,6 @@
 ## Welcome to my repository! :)
 
 <div>
-<p>Java | Spring Boot | PHP | MySQL</p>
-
 - 💼 Intern at @ANS Sistemas
 - 👨🏽‍💻 Systems development technician
 - 🎓 Systems analysis and development student
