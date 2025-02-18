@@ -2,6 +2,13 @@
    <img src="https://socialify.git.ci/micaelsantiago/micaelsantiago/image?custom_description=Welcome+to+my+repository%21+%3A%29&description=1&font=Jost&language=1&logo=https%3A%2F%2Fprivate-user-images.githubusercontent.com%2F83787168%2F399800567-f7e8c342-5df7-4749-8583-b7169d2b5928.png%3Fjwt%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU4NDk5MzQsIm5iZiI6MTczNTg0OTYzNCwicGF0aCI6Ii84Mzc4NzE2OC8zOTk4MDA1NjctZjdlOGMzNDItNWRmNy00NzQ5LTg1ODMtYjcxNjlkMmI1OTI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAyVDIwMjcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4ODA0NzA4YmUxZDgzNTI0ZTMxNjc1OWZiOTY3YTBiYWEwYjc4YjA3M2ZhYmQyNjNjNjZmMDQzZmI3MDg4MTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Pih2r6pzCqetLiHyrH4yhPAbfr3u719NtGH1-m0E-fE&name=1&owner=1&pattern=Solid&stargazers=1&theme=Auto">
 </div>
 
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,php,laravel,mysql,postgres,redis,docker,git,github" />
+  </a>
+</p>
 
 <br>
 
