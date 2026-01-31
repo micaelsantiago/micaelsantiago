@@ -4,10 +4,10 @@
 
 <p>🛠️ Ferramentas & Ambiente</p>
 
-![Tools](https://skills.syvixor.com/api/icons?perline=15&i=intellijidea,visualstudiocode,cursor,postman,n8n)
+![Tools](https://skills.syvixor.com/api/icons?perline=15&i=intellijidea,visualstudiocode,cursor,postman)
 
 <p>🤖 IA & Automação</p>
 
-![AI](https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,claudeai,googlegemini,groq,lovable)
+![AI](https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,claudeai,googlegemini,groq,lovable,n8n)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micaelsantiago&bg_color=212121&color=ffffff&line=c0ff3b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
