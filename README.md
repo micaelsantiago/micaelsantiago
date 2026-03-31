@@ -12,13 +12,13 @@ $ claude analyze github.com/micaelsantiago --output=profile
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  DEVELOPER PROFILE — AGENT OUTPUT                           ║
+║  DEVELOPER PROFILE — AGENT OUTPUT                            ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Name     →  Micael Santiago                                ║
-║  Role     →  Fullstack Developer                            ║
-║  Focus    →  AI-native systems · SaaS · Backend             ║
-║  Building →  AboveSign · Cidade Web                         ║
-║  Status   →  open to opportunities                          ║
+║  Name     →  Micael Santiago                                 ║
+║  Role     →  Fullstack Developer                             ║
+║  Focus    →  AI-native systems · SaaS · Backend              ║
+║  Building →  spec-pipe · santiago-os                         ║
+║  Status   →  open to opportunities                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
