@@ -59,7 +59,7 @@ $ claude analyze github.com/micaelsantiago --output=profile
 
 ## 🧠 Projetos & Impacto
 
-- 🔧 Refatorei um sistema legado completo em **1 semana utilizando IA**  
+- 🔧 Refatorei um sistema legado completo em **2 semanas utilizando IA**  
 - 🏦 Desenvolvi uma **plataforma Banking-as-a-Service** com integrações financeiras  
 - 📊 Otimizei consultas SQL (**30s → 2s de execução**)  
 - ⚙️ Escalei sistemas SaaS multi-tenant com usuários reais  
