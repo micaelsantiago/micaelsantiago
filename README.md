@@ -18,7 +18,7 @@ $ claude analyze github.com/micaelsantiago --output=profile
 ║  Name     →  Micael Santiago                                 ║
 ║  Role     →  Fullstack Developer                             ║
 ║  Focus    →  AI-native systems · SaaS · Backend              ║
-║  Building →  laravel-event-driven-store                      ║
+║  Building →  laravel-queue-notification-service              ║
 ║  Status   →  open to opportunities                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
